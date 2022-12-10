@@ -1,1 +1,1 @@
-# Statistical Distributions - Introduction
+# Topic 12: Statistical Distributions - Introduction
